@@ -6,7 +6,7 @@ I am Mingjia Pu, or "Johnny" for short. I am aiming to major in Data Science in 
 - United World College Changshu (2023-2026)
 
 ### Projects
-$y=\frac{ax+bx}{c}$
+N/A
 
 ### Awards and Certifications
 N/A
